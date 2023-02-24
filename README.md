@@ -1,2 +1,1 @@
-# dia-desafio-github--segundo-repositorio
-Desafio de Projeto sobre Git/GitHun
+# Repositorio do desafio de Projeto sobre Git/GitHub da DIO.
